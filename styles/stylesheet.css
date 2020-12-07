@@ -1,0 +1,74 @@
+* {
+  font-family: Arial, sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.topnav {
+  background: #444444;
+  width: 100%;
+  height: auto;
+  position: fixed;
+  top: 0;
+  z-index: 999;
+  display: inline-flex;
+  align-items: center;
+}
+
+.topnav a {
+  color: #fff;
+  text-decoration: none;
+  padding: 1rem 2rem;
+}
+
+.topnav a:hover {
+  background: #03a3df;
+  border:
+}
+
+.topnav .current {
+  background: #ecb722;
+}
+
+.logo {
+  width: 100px;
+  height: auto;
+  padding: 0rem 1rem;
+}
+
+.banner {
+  position: relative;
+  top: 3rem;
+  text-align: center;
+  background-image: url(https://p0.pikist.com/photos/783/451/destination-table-target-arrow-game-shooting-archery.jpg);
+  background-size: 100% 100%;
+  padding: 5rem;
+}
+
+.banner h1 {
+  color: #fff;
+  font-size: 40px;
+  font-weight: bold;
+  position: relative;
+  bottom: 3rem;
+}
+
+.banner address {
+  text-align: left;
+}
+
+.banner address ul {
+  list-style-type: none;
+  position: relative;
+  top: 5rem;
+  right: 4rem;
+}
+
+.banner a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 17px;
+}
