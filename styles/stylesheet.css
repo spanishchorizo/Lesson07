@@ -172,7 +172,7 @@ body {
   grid-gap: 2em;
   position: relative;
   top: 3em;
-  background-image: url(./styleguide/footerimage.jpg);
+  background-image: url(./styleguide/footerImage.jpg);
   background-size: 100% auto;
   background-repeat: no-repeat;
   padding: 3em;
