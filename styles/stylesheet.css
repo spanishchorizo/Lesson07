@@ -79,7 +79,7 @@ body {
 .grid-1 {
   display: grid;
   grid-template-columns: 1fr 2fr;
-  grid-column-gap: 35px;
+  grid-gap: 35px 10px;
   margin: 3em;
   position: relative;
   top: 3em;
