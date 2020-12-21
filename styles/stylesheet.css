@@ -88,12 +88,14 @@ body {
 }
 
 .grid-1 aside {
-  border: 4px double #444444;
+  border: 5px solid #ecb722;
   padding: 1em;
+  background: #1b447f;
+  color: white;
 }
 
 .grid-1 aside h3 {
-  color: #03a3df;
+  color: #ecb722;
 }
 
 .grid-1 .g1-item-1 ul {
@@ -225,7 +227,6 @@ body {
 .grid-4 {
   display: grid;
   grid-template: auto auto / repeat(3, 1fr);
-  /* grid-template-rows: repeat(3, 1fr); */
   grid-gap: 1em;
   background: #1b447f;
   position: relative;
