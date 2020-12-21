@@ -43,7 +43,7 @@ body {
 /* start of HOME page styling */
 .banner {
   position: relative;
-  top: 3rem;
+  top: 2rem;
   text-align: center;
   background-image: url(https://p0.pikist.com/photos/783/451/destination-table-target-arrow-game-shooting-archery.jpg);
   background-size: 100% auto;
@@ -113,6 +113,8 @@ body {
   font-weight: lighter;
   font-style: italic;
   color: #03a3df;
+  position: relative;
+  bottom: 1em;
 }
 
 .grid-1 .g1-item-4 {
